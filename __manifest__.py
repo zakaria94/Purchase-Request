@@ -8,7 +8,7 @@
     'description': """
         Purchase Request Addons
     """,
-    'author': "Muhammed Ashraf",
+    'author': "Zakaria Mahmoud",
     'website': "http://www.yourcompany.com",
     'category': 'Purchase',
     'version': '13.1',
